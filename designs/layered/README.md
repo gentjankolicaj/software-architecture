@@ -1,4 +1,1 @@
-# software-architecture-java
-
-## Layered architecture
-
+# Layered architecture 

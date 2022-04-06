@@ -1,18 +1,21 @@
-# software-architecture-java
+# Monolithic architecture
 
-## Monolithic architecture
+### Simple arch :
 
-#### Simple arch :
 ![](monolithic_general.png)
 
-#### Evolution of arch :
+### Evolution of arch :
+
 ![](monolithic_evolution.png)
 
-#### Load balancer :
+### Load balancer :
+
 ![](load_balancer.png)
 
-#### Monolithic with horizontal scale :
+### Monolithic with horizontal scale :
+
 ![](monolithic_arch_horizontal_scale.png)
 
-#### Monolithic deployment :
+### Monolithic deployment :
+
 ![](monolithic_deployment.png)
