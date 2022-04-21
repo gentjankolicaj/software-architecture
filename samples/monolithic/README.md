@@ -1,4 +1,4 @@
-## Monolithic software architecture 
+## E-commerce - monolithic arch
 
 #### General arch  below :
 ![](img/monolithic_general.png)
