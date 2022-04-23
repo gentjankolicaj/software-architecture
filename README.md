@@ -14,8 +14,8 @@ Software architecture design &amp; samples using java
 - [Decomposition](designs/decomposition-microservices)
 - [Communication](designs/microservices-communication)
 - [Gateway](designs/microservices-gateways)
-- [Async Communication (message based)](designs/microservices-asynch-comm-message)
-- [Kafka & RabbitMQ](designs/kafka-and_rabbitmq)
+- [Async Communication (message based)](designs/microservices-async-comm-message)
+- [Kafka & RabbitMQ](designs/kafka-and-rabbitmq)
 
 
 ## E-commerce architecture journey
