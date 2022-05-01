@@ -7,7 +7,7 @@ Software architecture design &amp; samples using java
 - [Service oriented architecture (SOA)](designs/soa)
 - [Microservices](designs/microservices)
 
-![](designs/architeture%20journey.png)
+![](designs/software-architeture.drawio.svg)
 
 ## Microservices :
 - [Introduction](designs/microservices)
@@ -21,7 +21,8 @@ Software architecture design &amp; samples using java
 - [Data Management Queries](designs/microservices-data%20management%20queries)
 - [Distributed Transactions](designs/microservices-distributed%20transaction)
 - [Event Driven](designs/event-driven-microservices)
-
+- [Distributed Caching](designs/microservices-distributed%20caching)
+- [Containers & Orchestrators](designs/microservices-containers%20&%20orchestrators)
 
 
 ## E-commerce architecture journey

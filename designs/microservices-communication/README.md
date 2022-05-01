@@ -1,18 +1,18 @@
 # Microservices communication
 
-<br>
 
+## Intro :
 ![](m_comm_0.png)
 
-### Communication type (sync-async) :
+## Communication type (sync-async) :
 ![](m_comm_synch.png)
 ![](m_comm_asynch.png)
 
-### Communication type (Request driven - Event driven) :
+## Communication type (Request Driven - Event Driven) :
 ![](m_comm_request-event.png)
 
 
-### HTTP based RESTful APIS
+## HTTP based RESTful APIS :
 - public apis ~ [RESTful API](https://www.ibm.com/cloud/learn/rest-apis)
 - Backend apis ~ [gRPC](https://grpc.io/)
 <br>
@@ -29,7 +29,7 @@
 ![](m_comm_rest_6.png)
 ![](m_comm_rest_7.png)
 
-### gRPC
+## gRPC :
 ![](m_comm_grpc_0.png)
 ![](m_comm_grpc_1.png)
 ![](m_comm_grpc_2.png)

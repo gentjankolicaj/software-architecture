@@ -4,6 +4,8 @@
 - [Service oriented architecture (SOA)](soa)
 - [Microservices](microservices)
 
+![](software-architeture.drawio.svg)
+
 ## Microservices :
 - [Introduction](microservices)
 - [Decomposition](decomposition-microservices)
@@ -16,4 +18,8 @@
 - [Data Management Queries](microservices-data%20management%20queries)
 - [Distributed Transactions](microservices-distributed%20transaction)
 - [Event Driven](event-driven-microservices)
+- [Distributed Caching](microservices-distributed%20caching)
+- [Containers & Orchestrators](microservices-containers%20&%20orchestrators)
+
+
 
