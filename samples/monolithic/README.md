@@ -1,7 +1,5 @@
-## E-commerce - monolithic arch
+# E-commerce with Monolithic Architecture 
 
 #### General arch  below :
-![](img/monolithic_general.png)
+![](../img/monolithic_general.png)
 
-#### Current monolithic architecture
-![](img/monolithic_project.png)
