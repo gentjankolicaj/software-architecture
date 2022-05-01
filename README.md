@@ -17,6 +17,11 @@ Software architecture design &amp; samples using java
 - [Async Communication (message based)](designs/microservices-async-comm-message)
 - [Kafka & RabbitMQ](designs/kafka-and-rabbitmq)
 - [Scale](designs/microservices-scale)
+- [Data Management](designs/microservices-data%20management)
+- [Data Management Queries](designs/microservices-data%20management%20queries)
+- [Distributed Transactions](designs/microservices-distributed%20transaction)
+- [Event Driven](designs/event-driven-microservices)
+
 
 
 ## E-commerce architecture journey
